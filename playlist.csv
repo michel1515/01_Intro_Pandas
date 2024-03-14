@@ -1,0 +1,11 @@
+track_name,artist(s)_name,artist_count,released_year,released_month,released_day,in_spotify_playlists,in_spotify_charts,streams,in_apple_playlists,in_apple_charts,in_deezer_playlists,in_deezer_charts,in_shazam_charts,bpm,key,mode,danceability_%,valence_%,energy_%,acousticness_%,instrumentalness_%,liveness_%,speechiness_%
+Por las Noches,Peso Pluma,1,2021,6,11,457,24,330346424,8,116,4,3,2,92,,Major,81,39,60,31,0,7,3
+Massive,Drake,1,2022,6,17,5263,0,195628667,66,89,61,0,11,125,E,Minor,51,5,68,12,2,15,6
+Sticky,Drake,1,2022,6,17,2814,0,191448892,38,105,25,0,2,137,A#,Minor,88,8,49,9,0,9,14
+BackOutsideBoyz,Drake,1,2022,11,4,1045,0,93367537,8,5,2,0,0,142,F,Minor,85,40,43,4,0,39,32
+LALA,Myke Towers,1,2023,3,23,1474,48,133716286,48,126,58,14,382,92,C#,Major,71,61,74,7,0,10,4
+SABOR FRESA,Fuerza Regida,1,2023,6,22,250,26,78300654,16,149,10,5,168,130,G,Minor,79,96,86,9,0,9,9
+TQM,Fuerza Regida,1,2023,5,19,584,28,176553476,16,159,15,6,100,125,F,Minor,79,96,85,27,0,11,6
+Mi Bello Angel,Natanael Cano,1,2023,6,30,86,8,31873544,7,76,3,1,93,128,A,Minor,81,90,77,1,0,9,5
+Bye,Peso Pluma,1,2023,5,26,324,14,95053634,13,110,8,2,60,122,,Major,78,70,81,57,0,10,5
+Search & Rescue,Drake,1,2023,4,7,2066,6,175097833,58,70,43,0,182,142,A#,Minor,82,54,44,6,0,33,7
